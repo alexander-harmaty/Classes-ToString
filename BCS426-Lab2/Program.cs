@@ -10,6 +10,7 @@ namespace BCS426_Lab2
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
