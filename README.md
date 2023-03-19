@@ -39,7 +39,7 @@ The "Employee" class also overrides the "ToString" method to return a string rep
 
 ### "Main" Class
 
-The "Main" method of the "Program" class creates two "Document" objects and four "Employee" objects using their respective constructors, and then prints out their string representations using the "Console.WriteLine" method.
+The "Main" method of the "Program" class creates two "Document" objects and four "Employee" objects using their respective constructors, and then prints out their string representations using the "Console.WriteLine" and "ToString" methods.
 
 The code also includes a commented-out line that attempts to change the value of the "createdOn" field of a "Document" object, but this is only to show why it fails as the "createdOn" field is marked "readonly".
 
