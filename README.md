@@ -2,6 +2,8 @@
 
 (FSC-BCS-426-Lab2)
 
+![Output](carbon.png)
+
 ## Assignment Context
 
 This project was one of the first assignments for my C# Programming class. 
