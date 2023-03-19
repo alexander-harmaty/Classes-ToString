@@ -2,6 +2,8 @@
 
 (FSC-BCS-426-Lab2)
 
+## Output
+
 ![Output](carbon.png)
 
 ## Assignment Context
