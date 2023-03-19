@@ -43,4 +43,4 @@ The "Main" method of the "Program" class creates two "Document" objects and four
 
 The code also includes a commented-out line that attempts to change the value of the "createdOn" field of a "Document" object, but this is only to show why it fails as the "createdOn" field is marked "readonly".
 
-Finally, the code waits for user input before ending the program.
+Finally, the code waits for the user to input any key to end the program.
