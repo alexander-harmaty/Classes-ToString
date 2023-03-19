@@ -10,7 +10,9 @@
 
 This project was one of the first assignments for my C# Programming class. 
 
-The goal of this assignment was for students to further explore C# and ASP.NET, so we were prompted to generate specified objects with random data and print them using a ToString override.
+The goal of this assignment was for students to further explore C#, so we were prompted to generate specified objects with random data and print them using a ToString override.
+
+This was a solo assignment made with C#, ASP.NET, and Visual Studio 2022.
 
 
 ## How It Works
