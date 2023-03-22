@@ -1,4 +1,4 @@
-# Classes & ToString
+# Printing Objects with ToString  
 
 (FSC-BCS-426-Lab2)
 
